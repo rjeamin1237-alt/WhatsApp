@@ -1,0 +1,6 @@
+{
+  "name": "ChatWave WhatsApp",
+  "description": "WhatsApp Messenger clone featuring AI Chatbot powered by Gemini, secure profile viewer, real audio/video calling simulation, real file attachments, voice memos recording, and bilingual Bengali/English support.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
